@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args){
 
         /** Program 1 : Refer to class Cars*/
-        Cars myCar = new Cars("Toyota", "Innova", "2016");
+        Cars myCar = new com.sem4.pg1.Cars("Toyota", "Innova", "2016");
         myCar.display();
 
         System.out.println();
